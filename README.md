@@ -23,3 +23,4 @@ This project performs an **in-depth exploratory data analysis (EDA)** on the [Ka
 ---
 
 ## 🚀 Quick Start
+1. git clone
